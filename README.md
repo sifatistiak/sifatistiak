@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sifatistiak
-- 👀 I’m interested in Laravel
-- 🌱 I’m currently learning GO
+- 👀 I’m interested in Laravel, Next JS, Nest JS
+- 🌱 I’m currently working with JavaScript 
 - 💞️ I’m looking to collaborate on laravel projects
 - 📫 Reach me via sifatistiak@gmail.com
 
